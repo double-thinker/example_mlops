@@ -1,4 +1,8 @@
 {
+	"forwardPorts": [
+		5000
+	],
+	"postCreateCommand": "pip install mlflow",
 	"customizations": {
 		"vscode": {
 			"extensions": [
